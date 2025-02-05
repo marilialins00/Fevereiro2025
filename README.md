@@ -1,4 +1,2 @@
 # Fevereiro2025
-Aprendizazem
-
-Este projeto foi criado  apartir da aula de setups da Cubos Academy
+Este projeto foi criado a partir da aula de setups da Cubos Academy
